@@ -2,7 +2,9 @@
 
 A simple console-based Library Management System developed in C#.
 
-This project allows users to manage a library by adding, updating, removing, searching, sorting, and filtering books. All data is stored in a text file, so the library is saved even after the application is closed.
+This project allows users to manage a library by adding, updating, removing, searching, 
+sorting, and filtering books. All data is stored in a text file, so the library is saved 
+even after the application is closed.
 
 🚀 Features
 ➕ Add new books
