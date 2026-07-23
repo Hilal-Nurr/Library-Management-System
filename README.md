@@ -36,7 +36,6 @@ To run this project, you need to have the [.NET 8.0 SDK](https://dotnet.microsof
 1. Clone the repository or download the source code.
 2. Open your terminal or command prompt.
 3. Navigate to the project directory where the `.csproj` file is located.
-4. Run the following command:
 
 🎮 Usage
 
